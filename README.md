@@ -5,10 +5,17 @@ This is my app.
 
 
 #Ne ne ne ne, nereikia, neverk
+
 #Neverta liūdėti
-# Lai nebelyja ašarom vėl
+
+#Lai nebelyja ašarom vėl
+
 #Žinau, sunku tai pamiršti
+
 #Ne ne ne ne, nereikia, neverk
+
 #Gana tau kentėti
+
 #Žinok, tu galėtum viską pakeist
+
 #Galiu tau padėti pamiršti
